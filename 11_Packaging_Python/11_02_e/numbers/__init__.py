@@ -1,0 +1,1 @@
+print(f' mane in __init__.py is {__name__}')
