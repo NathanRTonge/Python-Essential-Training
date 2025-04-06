@@ -5,6 +5,7 @@ def factorial(num):
             x = x + i*x
         return x
     else:
+        print('Please input natural number')
         return None
 
 print(factorial(5))
